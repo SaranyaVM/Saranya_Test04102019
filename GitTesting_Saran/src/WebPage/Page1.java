@@ -5,9 +5,9 @@ public class Page1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("InstagramPage1");
+		System.out.println("InstagramPage2");
 		
-		
+		System.out.println("InstagramGram");
 	}
 
 }
